@@ -25,7 +25,7 @@ class WeatherScreen extends StatefulWidget {
 }
 
 class _WeatherScreenState extends State<WeatherScreen> {
-  final String apiKey = '9d8f8fa7ab66232610c72102ef93e095'; // Replace with your OpenWeatherMap API key
+  final String apiKey = ''; // Replace with your OpenWeatherMap API key
   late String city;
   late String apiUrl;
 
